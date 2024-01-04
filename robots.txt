@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+Sitemap: http://slot88.mouplands.org/sitemap.xml
